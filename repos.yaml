@@ -74,6 +74,10 @@ Modular Amateur Rocket Computer:
   url : "https://github.com/devincress/marc"
   branch: "main"
   mentor_last_name: "Forsyth"
+Face-Detector:
+  url: "https://github.com/vm123/SampleProject_vijay.git"
+  branch: "main"
+  mentor_last_name: "n/a"
 # Sample:
 #   url : "https://github.com/Amp-Lab-at-VT/SampleProject"
 #   branch: "master"
